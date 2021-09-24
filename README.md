@@ -1,6 +1,6 @@
 # Satellite_Detection
 
-This is the repository for the analysis of satellite trails in Hubble archive images in the ESA summer project "The impact of megaconstellations on space astronomy". 
+This is the repository for the analysis of satellite trails in Hubble images in the ESA summer project "The impact of megaconstellations on space astronomy". 
 
 1) Zooniverse_Data.ipynb: Transforms the Results from Zooniverse into training data for the machine learning algorithms.
 2) Hubble_Image_Download.ipynb: Downloads all the raw Hubble Archive Images that make up the Composite Images from the three instruments ACS/WFC, WFC3/UVIS and WFC3/IR and saves them in the format 600x600px.

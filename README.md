@@ -7,3 +7,4 @@ This is the repository for the analysis of satellite trails in Hubble images in 
 3) Image_Classifier.ipynb (Machine Learning algorithm 1): Makes binary predictions "satellite"/"no_satellite" on a given Hubble image.
 4) Mask_R-CNN_Satellites.ipynb (Machine Learning algorithm 2): Detects start/end point and the angle of a satellite trail on a given Hubble image with a satellite trail.
 5) Processing_and_Analysis.ipynb: Postprocesses the data and creates analysis plots.
+6) Analysis.ipynb: Resulting analysis for the raw images (reduced to the relevant plots).
